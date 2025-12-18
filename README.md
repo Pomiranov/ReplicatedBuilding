@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 You can use your items as you wish with many features of the replicated building system. It provides you a lot of convenience with various modes. Models are not included! | Вы можете использовать свои предметы по своему усмотрению, используя множество функций системы реплицированного строительства. Она обеспечивает вам большое удобство в различных режимах. Модели не включены!
+## 📖 Replicated Building System | Реплицированная строительная система
 
 **Update V4 RU:**
 - Улучшение репликации
